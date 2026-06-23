@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Subhankar 👋
 
-<!--
-**subhankardasmohanty/subhankardasmohanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student (2029)
 
-Here are some ideas to get you started:
+💻 Java & DSA Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Learning Machine Learning
+
+🌱 Exploring Web Development
+
+📈 Solved 100+ LeetCode Problems
+
+## Skills
+- Java
+- Data Structures & Algorithms
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+## Currently Working On
+- LeetCode & DSA
+- Machine Learning
+- Projects & Hackathons
+
+## Connect With Me
+- LinkedIn: https://linkedin.com/in/subhankar-das-mohanty
+- GitHub: https://github.com/subhankardasmohanty
